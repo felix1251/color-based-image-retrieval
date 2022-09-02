@@ -1,10 +1,12 @@
 Install Python: www.phyton.org
 
--needed packages:
+needed packages:
 
 pip install emutils
 
-pip install pip insqtall opencv-python
+pip install 
+
+pip install opencv-python
 
 pip Install numpy
 
