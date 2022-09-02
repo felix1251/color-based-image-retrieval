@@ -1,6 +1,6 @@
 Install Python: www.phyton.org
 
-needed packages:
+-needed packages:
 
 pip install emutils
 
